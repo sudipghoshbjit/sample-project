@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class DemoClass {
-    public void DemoMethod() {
+    public void test() {
         System.out.println("Hello World");
     }
 }
